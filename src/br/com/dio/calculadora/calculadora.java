@@ -19,17 +19,12 @@ public class calculadora {
 		double divisao = divisao (a,b);
 		double multiplicacao = multiplicacao (a,b);
 		
-<<<<<<< Updated upstream
+
 		System.out.println("A soma dos dois numeros é : " + soma);
 		System.out.println("A subtracao dos dois numeros é: " + subtracao);
 		System.out.println("A divisao dos dois numeros é : " + divisao);
 		System.out.println("A multiplicacao dos dois numeros é : " + multiplicacao);
-=======
-		System.out.println("A soma dos dois nï¿½meros ï¿½ igual a : " + soma);
-		System.out.println("A subtraï¿½ï¿½o dos dois nï¿½meros ï¿½ igual a : " + subtracao);
-		System.out.println("A divisï¿½o dos dois nï¿½meros ï¿½ igual a : " + divisao);
-		System.out.println("A multiplicacï¿½o dos dois nï¿½meros ï¿½ igual a : " + multiplicacao);
->>>>>>> Stashed changes
+
 		}
 
 	public static double soma (double a, double b) {
