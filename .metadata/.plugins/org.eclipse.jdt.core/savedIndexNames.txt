@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\Sheila\Desktop\Sheila\Bootcamp Capgemini\Java\primeiro programa java sheila\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
